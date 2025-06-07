@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Examen-Final-Primer-Semestre/static/css/main.9d0934b1.css",
+    "main.js": "/Examen-Final-Primer-Semestre/static/js/main.912e3747.js",
+    "static/js/453.ab191dd1.chunk.js": "/Examen-Final-Primer-Semestre/static/js/453.ab191dd1.chunk.js",
+    "index.html": "/Examen-Final-Primer-Semestre/index.html",
+    "main.9d0934b1.css.map": "/Examen-Final-Primer-Semestre/static/css/main.9d0934b1.css.map",
+    "main.912e3747.js.map": "/Examen-Final-Primer-Semestre/static/js/main.912e3747.js.map",
+    "453.ab191dd1.chunk.js.map": "/Examen-Final-Primer-Semestre/static/js/453.ab191dd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d0934b1.css",
+    "static/js/main.912e3747.js"
+  ]
+}
