@@ -7,7 +7,7 @@ import Projects from './pages/Projects';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Examen-Final-Primer-Semestre">
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container-fluid">
           <Link className="navbar-brand" to="/">Mi Sitio</Link>
